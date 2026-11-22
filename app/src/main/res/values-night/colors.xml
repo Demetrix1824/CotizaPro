@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- COLORES PRINCIPALES -->
+    <color name="primary">#1769AA</color>
+    <color name="primary_dark">#64A9E8</color>
+    <color name="primary_light">#203B55</color>
+    1769AA
+    <!-- FONDOS -->
+    <color name="background">#121C28</color>
+    <color name="surface">#1D2A38</color>
+    <color name="surface_secondary">#253546</color>
+
+    <!-- TEXTOS -->
+    <color name="text_primary">#EAF2FA</color>
+    <color name="text_secondary">#B0BECC</color>
+    <color name="text_hint">#8495A7</color>
+
+    <!-- BORDES -->
+    <color name="border">#394B5D</color>
+    <color name="divider">#344657</color>
+
+    <!-- ESTADOS -->
+    <color name="error">#FF7777</color>
+    <color name="success">#58C99A</color>
+
+</resources>
